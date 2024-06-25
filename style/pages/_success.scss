@@ -1,0 +1,43 @@
+.page-success{
+    .row-login{
+        min-height: 75vh;
+    }
+    .section-success{
+        h2{
+            font-size: 28px;
+            font-weight: 200;
+            color: #0C0D36;
+            margin-top: 0;
+        }
+        .btn-signup{
+            @include button-variant(#F3F3F3, transparent);
+            color: #BBBBBB;
+            ;
+        }
+    }
+}
+
+.popup-content {
+    width: 326px;
+    height: 408px;
+    background: white;
+    box-shadow: 4px 4px 70px 10px rgb(0 0 0/11%);
+    border-radius: 25px;
+
+}
+
+.imgbox{
+    text-align: center;
+
+}
+
+.img {
+    width: 112px;
+    margin-top: 40px;
+}
+
+.title {
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: 0.05 px;
+}

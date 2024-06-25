@@ -1,0 +1,66 @@
+.card {
+    background: #fefefe;
+    box-shadow: 0px 4px 15px #f1f1f8;
+    border-radius: 8px;
+    border: none;
+    text-decoration: none !important;
+
+    .dashboard-card-title {
+        font-weight: normal;
+        font-size: 16px;
+        color: #C5C5C5;
+    }
+
+    .dashboard-card-subtitle {
+        font-weight: 600;
+        font-size: 32px;
+        color: #0C0D36;
+    }
+
+}
+
+.card-header {
+    background: #fefefe;
+    box-shadow: 0px 4px 15px #f1f1f8;
+    border-radius: 8px;
+    border: none;
+    text-decoration: none !important;
+
+    .nav-link {
+        font-weight: normal;
+        font-size: 16px;
+        color: #0C0D36;
+    }
+}
+
+.card-body {
+    background: #fefefe;
+    box-shadow: 0px 4px 15px #f1f1f8;
+    border-radius: 8px;
+    border: none;
+    text-decoration: none !important;
+
+    .card-text {
+        font-weight: normal;
+        font-size: 16px;
+        color: #0C0D36;
+    }
+
+    .card-title {
+        font-weight: normal;
+        font-size: 16px;
+        color: #0C0D36;
+    }
+    
+    .card-text-store {
+        font-weight: normal;
+        font-size: 24px;
+        color: #0C0D36;
+    }
+    
+    .btn-success {
+        color: #29A867;
+    }
+
+    
+}
